@@ -2,5 +2,3 @@ streamlit
 rembg
 pillow
 numpy
-drive
-os
