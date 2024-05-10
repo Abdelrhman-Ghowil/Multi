@@ -4,7 +4,7 @@ import os
 from rembg import remove
 from PIL import Image
 
-from google.colab import drive
+import drive
 drive.mount('/content/drive')
 
 # Change the working directory to the Food Project directory
