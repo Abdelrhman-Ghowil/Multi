@@ -4,5 +4,4 @@ pillow
 numpy
 drive
 google.colab
-pep517
 os
